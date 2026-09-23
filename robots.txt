@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bfkjk.cn/sitemap.xml
